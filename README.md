@@ -1,69 +1,66 @@
-# AnimateMyPic
-AI Image to Video Generator | Animate Photos Online | Photo Animator | Image Animator | Animate Picture
+# AnimateMyPic  
+AI Image to Video Generator | Animate Photos Online | Photo Animator | Image Animator | Animate Picture  
 
-# AnimateMyPic
+[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://animatemypic.com/)  
 
-[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://animatemypic.com/)
+**AnimateMyPic** is an online tool designed to transform your static photos into dynamic animations. Whether you want to create fun content for social media or bring your photos to life, this tool can help you achieve your goals quickly and easily.  
 
-**AnimateMyPic** 是一个在线工具，旨在将您的静态照片转化为动态动画。无论您是想为社交媒体创建有趣的内容，还是想尝试将照片变得更加生动，这个工具都可以快速帮助您实现目标。
+## Key Features  
 
-## 网站主要功能
+### 1. **Photo Animation**  
+Turn static photos into dynamic effects and bring your pictures to life.  
+- Feature Link: [Photo Animation](https://animatemypic.com/image-to-video)  
 
-### 1. **照片动画化**
-将静态照片转化为动态效果，为您的照片赋予生命。
-- 功能链接：[照片动画化](https://animatemypic.com/image-to-video)
+### 2. **Text-to-Video Generator**  
+Input your ideas and generate a stunning video.  
+- Feature Link: [Text-to-Video](https://animatemypic.com/text-to-video)  
 
-### 2. **文字生成视频**
-输入你的任意想法，生成一个精美的视频。
-- 功能链接：[动态表情制作](https://animatemypic.com/text-to-video)
-
-### 3. **丰富的AI视频特效**
-为您的图片添加亲吻、拥抱、老照片焕新等AI特效。
-- 功能链接：[AI亲吻视频](https://animatemypic.com/effect/ai-kissing)
-- 功能链接：[AI拥抱视频](https://animatemypic.com/effect/ai-hug)
-- 功能链接：[AI拥抱视频](https://animatemypic.com/effect/ai-old-photo-animation)
-- 功能链接：[AI跳舞视频](https://animatemypic.com/effect/ai-dancing)
-
+### 3. **Rich AI Video Effects**  
+Add AI-powered effects like kissing, hugging, old photo revival, and dancing to your pictures.  
+- Feature Link: [AI Kissing Video](https://animatemypic.com/effect/ai-kissing)  
+- Feature Link: [AI Hugging Video](https://animatemypic.com/effect/ai-hug)  
+- Feature Link: [AI Old Photo Animation](https://animatemypic.com/effect/ai-old-photo-animation)  
+- Feature Link: [AI Dancing Video](https://animatemypic.com/effect/ai-dancing)  
+- More [AI Video Effects](https://animatemypic.com/effect/ai-dancing)  
 
 
-## 特性
+## Features  
 
-- **简单易用**：无需安装任何软件，只需上传图片即可开始。
-- **快速处理**：高效的动画生成技术，几秒内完成。
-- **多种效果**：提供多种动画效果供您选择，满足不同需求。
-- **跨平台支持**：可在任何支持浏览器的设备上运行，包括手机、平板和电脑。
+- **Easy to Use**: No software installation needed. Just upload your photo and start.  
+- **Fast Processing**: Efficient animation generation technology completes the task in seconds.  
+- **Multiple Effects**: Offers a variety of animation effects to meet different needs.  
+- **Cross-Platform Support**: Works on any browser-compatible device, including phones, tablets, and computers.  
 
-## 使用方法
+## How to Use  
 
-1. 访问 [AnimateMyPic](https://animatemypic.com/)。
-2. 上传您的照片。
-3. 选择您喜欢的动画效果。
-4. 下载或分享您的动态图片。
+1. Visit [AnimateMyPic](https://animatemypic.com/).  
+2. Upload your photo.  
+3. Choose your desired animation effect.  
+4. Download or share your animated picture.  
 
-## 链接
+## Links  
 
-- 官方网站：[https://animatemypic.com/](https://animatemypic.com/)
-- 联系支持：[support@animatemypic.com](mailto:support@animatemypic.com)
+- Official Website: [https://animatemypic.com/](https://animatemypic.com/)  
+- Contact Support: [support@animatemypic.com](mailto:support@animatemypic.com)  
 
 ---
 
-## 多语言支持
+## Multi-Language Support  
 
-为了方便全球用户，以下是多语言的链接：
+To cater to a global audience, the following language versions are available:  
 
-- **English**: [AnimateMyPic](https://animatemypic.com/en)
-- **简体中文**: [AnimateMyPic](https://animatemypic.com/zh)
-- **Español**: [AnimateMyPic](https://animatemypic.com/es)
-- **Français**: [AnimateMyPic](https://animatemypic.com/fr)
-- **Deutsch**: [AnimateMyPic](https://animatemypic.com/de)
-
-
----
-
-## 许可证
-
-本项目由 AnimateMyPic 提供支持，所有权利保留。
+- **English**: [AnimateMyPic](https://animatemypic.com/en)  
+- **简体中文**: [AnimateMyPic](https://animatemypic.com/zh)  
+- **Español**: [AnimateMyPic](https://animatemypic.com/es)  
+- **Français**: [AnimateMyPic](https://animatemypic.com/fr)  
+- **Deutsch**: [AnimateMyPic](https://animatemypic.com/de)  
 
 ---
 
-感谢您使用 AnimateMyPic！如果您喜欢这个工具，请分享给您的朋友和家人！
+## License  
+
+This project is powered by AnimateMyPic. All rights reserved.  
+
+---
+
+Thank you for using AnimateMyPic! If you enjoy this tool, please share it with your friends and family!
