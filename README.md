@@ -38,7 +38,6 @@ AI Image to Video Generator | Animate Photos Online | Photo Animator | Image Ani
 - **Français**: [AnimateMyPic](https://animatemypic.com/fr)
 - **Deutsch**: [AnimateMyPic](https://animatemypic.com/de)
 
-如果您需要其他语言的支持，请访问 [语言选择页面](https://animatemypic.com/languages)。
 
 ---
 
