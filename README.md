@@ -7,6 +7,25 @@ AI Image to Video Generator | Animate Photos Online | Photo Animator | Image Ani
 
 **AnimateMyPic** 是一个在线工具，旨在将您的静态照片转化为动态动画。无论您是想为社交媒体创建有趣的内容，还是想尝试将照片变得更加生动，这个工具都可以快速帮助您实现目标。
 
+## 网站主要功能
+
+### 1. **照片动画化**
+将静态照片转化为动态效果，为您的照片赋予生命。
+- 功能链接：[照片动画化](https://animatemypic.com/image-to-video)
+
+### 2. **文字生成视频**
+输入你的任意想法，生成一个精美的视频。
+- 功能链接：[动态表情制作](https://animatemypic.com/text-to-video)
+
+### 3. **丰富的AI视频特效**
+为您的图片添加亲吻、拥抱、老照片焕新等AI特效。
+- 功能链接：[AI亲吻视频](https://animatemypic.com/effect/ai-kissing)
+- 功能链接：[AI拥抱视频](https://animatemypic.com/effect/ai-hug)
+- 功能链接：[AI拥抱视频](https://animatemypic.com/effect/ai-old-photo-animation)
+- 功能链接：[AI跳舞视频](https://animatemypic.com/effect/ai-dancing)
+
+
+
 ## 特性
 
 - **简单易用**：无需安装任何软件，只需上传图片即可开始。
