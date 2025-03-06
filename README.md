@@ -53,7 +53,7 @@ To cater to a global audience, the following language versions are available:
 - **简体中文**: [AnimateMyPic](https://animatemypic.com/zh)  
 - **Español**: [AnimateMyPic](https://animatemypic.com/es)  
 - **Français**: [AnimateMyPic](https://animatemypic.com/fr)  
-- **Deutsch**: [AnimateMyPic](https://animatemypic.com/de)  
+- **日本語**: [AnimateMyPic](https://animatemypic.com/ja)  
 
 ---
 
